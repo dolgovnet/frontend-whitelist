@@ -21,6 +21,13 @@ Frontend WhiteList — это список полезных ресурсов д�
 ##CSS
 
 ###Визуализация
+* [Свойства вызывающие перерисовку](http://csstriggers.com/)
+* [Руководство по CSS Animation](http://css.yoksel.ru/css-animation/)
+* [Всё, что вам нужно знать о CSS-свойстве will-change](https://dev.opera.com/articles/ru/css-will-change-property/)
+* [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
+* [CSS-маски для hover-эффекта](https://habrahabr.ru/post/164409/)
+* [Intermediate CSS3 Hover Effects. Пошаговый туториал](https://habrahabr.ru/post/274003/)
+
 ###CSS Советы 
 
 ##JavaScript
