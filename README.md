@@ -29,6 +29,10 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
 * [CSS-маски для hover-эффекта](https://habrahabr.ru/post/164409/)
 * [Intermediate CSS3 Hover Effects. Пошаговый туториал](https://habrahabr.ru/post/274003/)
+* [Как сделать Инстаграм в браузере](https://www.youtube.com/watch?v=RJnYkbm66ZI)
+* [Аппаратное ускорение](https://vimeo.com/97907079#at=3)
+* [Веб-анимация на JS и CSS](https://vimeo.com/141266409)
+* [Анимируем объекты с использованием физики в JavaScript](https://www.youtube.com/watch?time_continue=6&v=UH3tKb7B5xA)
 
 ###CSS Советы 
 * [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
