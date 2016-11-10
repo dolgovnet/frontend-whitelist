@@ -31,6 +31,11 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Intermediate CSS3 Hover Effects. Пошаговый туториал](https://habrahabr.ru/post/274003/)
 
 ###CSS Советы 
+* [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
+* [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
+* [Организация кода для CSS препроцессоров](http://frontender.info/organizing-your-css-code-for-preprocessors/)
+* [Битва архитектур](http://css-live.ru/articles/bitva-arxitektur.html)
+* [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
 
 ##JavaScript
 
