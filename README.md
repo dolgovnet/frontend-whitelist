@@ -5,9 +5,9 @@ WhiteList — это список полезных ресурсов для ра�
 * [CSS](README.md#css)
   * [Визуализация](README.md#Визуализация)
   * [Советы](README.md#css-Советы)
-* [JS](README.md#js)
+* [JS](README.md#JavaScript)
   * [Основы](README.md#Основы)
-  * [Советы](README.md#js-Советы)
+  * [Советы](README.md#JavaScript-Советы)
 * [Инструменты](README.md#Инструменты)
 * [Верстка](README.md#Верстка)
 * [Accessibility](README.md#accessibility)
@@ -22,9 +22,20 @@ WhiteList — это список полезных ресурсов для ра�
 ###Визуализация
 ###CSS Советы 
 
-##JS
+##JavaScript
 ###Основы
-###JS Советы
+* [Современный учебник JavaScript](https://learn.javascript.ru)
+* [Сводная таблица с результатами работы условий](http://dorey.github.io/JavaScript-Equality-Table/)
+* [Область видимости в JavaScript и «поднятие» переменных и объявлений функций](https://habrahabr.ru/post/127482/)
+* [Как работают замыкания (под капотом) в JavaScript](http://habrahabr.ru/company/hexlet/blog/266443/)
+* [Асинхронность в JavaScript: Пособие для тех, кто хочет разобраться](https://habrahabr.ru/company/wrike/blog/302896/)
+* [Делаем свой JavaScript чистым](http://prgssr.ru/development/delaem-svoj-javascript-chistym.html)
+
+###JavaScript Советы
+* [Плохой код #1](http://jsraccoon.ru/exercise-bad-code-one)
+* [8 правил хорошего JavaScript-кода](http://popel-studio.com/blog/article/8-pravil-horoshego-javascript-koda.html)
+* [Техники работы с DOM: родительские, дочерние и соседние элементы](http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html)
+* [4 вида утечек памяти в JavaScript и как с ними бороться](https://habrahabr.ru/post/309318/)
 
 ##Инструменты
 
