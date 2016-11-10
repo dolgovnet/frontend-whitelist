@@ -22,6 +22,7 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/)
 * [Свойство background-clip и его применения](http://css-live.ru/articles-css/background-clip-use-cases.html)
 * [МОЖНО ВООБЩЕ ВСЁ. РАСКЛАДКА ПО ГРИДУ - Вадим Макеев](https://www.youtube.com/watch?v=hAFcdRrhwQM)
+* [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 
 ###Визуализация
 * [Свойства вызывающие перерисовку](http://csstriggers.com/)
@@ -37,7 +38,6 @@ Frontend WhiteList — это список полезных ресурсов д�
 
 ###Методологии 
 * [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
-* [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 * [Организация кода для CSS препроцессоров](http://frontender.info/organizing-your-css-code-for-preprocessors/)
 * [Битва архитектур](http://css-live.ru/articles/bitva-arxitektur.html)
 * [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
