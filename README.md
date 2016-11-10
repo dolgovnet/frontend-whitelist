@@ -43,6 +43,11 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Правила хорошего тона при написании плагина на jQuery](https://habrahabr.ru/post/277603/)
 
 ##Инструменты
+* [Автоматизация для фронтендеров](https://www.youtube.com/watch?v=y9ERi0PhHEo)
+* [Bower: зачем фронтенду нужен менеджер пакетов](http://nano.sapegin.ru/all/bower)
+* [Введение в пакетный менеджер NPM для начинающих](http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html)
+* [Автоматизация регрессионного тестирования CSS](http://prgssr.ru/development/avtomatizaciya-regressionnogo-testirovaniya-css-2016.html)
+* [Перевод книги "Pro Git"](https://git-scm.com/book/ru/v1)
 
 ##Верстка
 
