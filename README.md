@@ -4,7 +4,7 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [HTML](README.md#html)
 * [CSS](README.md#css)
   * [Визуализация](README.md#Визуализация)
-  * [Советы](README.md#css-Советы)
+  * [Методологии](README.md#Методологии)
 * [JavaScript](README.md#javascript)
   * [Основы](README.md#Основы)
   * [Советы](README.md#javascript-Советы)
@@ -21,6 +21,8 @@ Frontend WhiteList — это список полезных ресурсов д�
 ##CSS
 * [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/)
 * [Свойство background-clip и его применения](http://css-live.ru/articles-css/background-clip-use-cases.html)
+* [МОЖНО ВООБЩЕ ВСЁ. РАСКЛАДКА ПО ГРИДУ - Вадим Макеев](https://www.youtube.com/watch?v=hAFcdRrhwQM)
+* [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 
 ###Визуализация
 * [Свойства вызывающие перерисовку](http://csstriggers.com/)
@@ -34,12 +36,13 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Веб-анимация на JS и CSS](https://vimeo.com/141266409)
 * [Анимируем объекты с использованием физики в JavaScript](https://www.youtube.com/watch?time_continue=6&v=UH3tKb7B5xA)
 
-###CSS Советы 
+###Методологии 
 * [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
-* [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 * [Организация кода для CSS препроцессоров](http://frontender.info/organizing-your-css-code-for-preprocessors/)
 * [Битва архитектур](http://css-live.ru/articles/bitva-arxitektur.html)
 * [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
+* [«Пишем БЭМ правильно» — Игорь Зенич, iDeus](https://www.youtube.com/watch?v=hTmxbJF2Tts)
+* [А вы верите в систематизацию, или методологии верстки?](https://www.youtube.com/watch?v=P4ag4JSNWTM)
 
 ##JavaScript
 
@@ -79,6 +82,11 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Как я научился любить скучные мелочи CSS](http://web-standards.ru/articles/boring-bits-of-css/)
 * [Валидация форм на HTML и CSS](https://medium.com/russian/валидация-форм-на-html-и-css-c34c982d42a0#.885w45m0k)
 * [Делать ли мобильную версию? 5 распространенных проблем, которые решает адаптивная верстка. Опыт Яндекса](https://habrahabr.ru/company/yandex/blog/307064/)
+* [Веб-дизайн. Лекция Виталия Фридмана](https://www.youtube.com/watch?v=ri2XWgIt59U)
+* [Вёрстка для мобильных устройств - Артём Кувалдин, Олег Мохов](https://www.youtube.com/watch?v=cmt2A_kT8Fs)
+* [Типографика восток - Роман Прудников](https://www.youtube.com/watch?v=9YQzHmIVYag)
+* [input, Артём Кувалдин, Яндекс | FrontendFellows #1](https://www.youtube.com/watch?time_continue=20&v=2uo74fpwCN4)
+* [FrontendLab: Признаки хорошей верстки - Роман Братченко](https://www.youtube.com/watch?v=lXgoTAhuEfo)
 
 ##Accessibility
 * [Недоступный веб: как мы развели такой бардак](https://habrahabr.ru/post/309076/)
