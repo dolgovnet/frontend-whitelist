@@ -8,6 +8,7 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [JavaScript](README.md#javascript)
   * [Основы](README.md#Основы)
   * [Советы](README.md#javascript-Советы)
+  * [Библиотеки и фреймворки](README.md#Библиотеки-и-фреймворки)
 * [Инструменты](README.md#Инструменты)
 * [Верстка](README.md#Верстка)
 * [Accessibility](README.md#accessibility)
@@ -36,6 +37,8 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [8 правил хорошего JavaScript-кода](http://popel-studio.com/blog/article/8-pravil-horoshego-javascript-koda.html)
 * [Техники работы с DOM: родительские, дочерние и соседние элементы](http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html)
 * [4 вида утечек памяти в JavaScript и как с ними бороться](https://habrahabr.ru/post/309318/)
+
+###Библиотеки и фреймворки 
 
 ##Инструменты
 
