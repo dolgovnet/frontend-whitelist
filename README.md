@@ -4,7 +4,7 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [HTML](README.md#html)
 * [CSS](README.md#css)
   * [Визуализация](README.md#Визуализация)
-  * [Советы](README.md#css-Советы)
+  * [Методологии](README.md#Методологии)
 * [JavaScript](README.md#javascript)
   * [Основы](README.md#Основы)
   * [Советы](README.md#javascript-Советы)
@@ -34,12 +34,14 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Веб-анимация на JS и CSS](https://vimeo.com/141266409)
 * [Анимируем объекты с использованием физики в JavaScript](https://www.youtube.com/watch?time_continue=6&v=UH3tKb7B5xA)
 
-###CSS Советы 
+###Методологии 
 * [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 * [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 * [Организация кода для CSS препроцессоров](http://frontender.info/organizing-your-css-code-for-preprocessors/)
 * [Битва архитектур](http://css-live.ru/articles/bitva-arxitektur.html)
 * [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
+* [«Пишем БЭМ правильно» — Игорь Зенич, iDeus](https://www.youtube.com/watch?v=hTmxbJF2Tts)
+* [А вы верите в систематизацию, или методологии верстки?](https://www.youtube.com/watch?v=P4ag4JSNWTM)
 
 ##JavaScript
 
