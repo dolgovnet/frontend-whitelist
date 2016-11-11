@@ -18,15 +18,15 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Книги](README.md#Книги)
 
 ##CSS
-* [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/)
-* [Свойство background-clip и его применения](http://css-live.ru/articles-css/background-clip-use-cases.html)
+* [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки. Дмитрий Дудин](http://html5.by/blog/flexbox/)
+* [Свойство background-clip и его применения. Ana Tudor. Перевод css-live.ru](http://css-live.ru/articles-css/background-clip-use-cases.html)
 * [Можно вообще всё. Раскладка по гриду. Вадим Макеев](https://www.youtube.com/watch?v=hAFcdRrhwQM)
-* [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
+* [Основные правила и принципы написания CSS. Гарри Робертс. Перевод Владимир Старков](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 
 ###Визуализация
 * [Свойства вызывающие перерисовку](http://csstriggers.com/)
-* [Руководство по CSS Animation](http://css.yoksel.ru/css-animation/)
-* [Всё, что вам нужно знать о CSS-свойстве will-change](https://dev.opera.com/articles/ru/css-will-change-property/)
+* [Руководство по CSS Animation. Юля Бухвалова](http://css.yoksel.ru/css-animation/)
+* [Всё, что вам нужно знать о CSS-свойстве will-change. Sara Soueidan. Перевод Opera Software](https://dev.opera.com/articles/ru/css-will-change-property/)
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
 * [CSS-маски для hover-эффекта](https://habrahabr.ru/post/164409/)
 * [Intermediate CSS3 Hover Effects. Пошаговый туториал](https://habrahabr.ru/post/274003/)
@@ -36,9 +36,9 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Анимируем объекты с использованием физики в JavaScript. Елена Иванова](https://www.youtube.com/watch?v=UH3tKb7B5xA)
 
 ###Методологии 
-* [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
-* [Организация кода для CSS препроцессоров](http://frontender.info/organizing-your-css-code-for-preprocessors/)
-* [Битва архитектур](http://css-live.ru/articles/bitva-arxitektur.html)
+* [Как работать с CSS-препроцессорами и БЭМ. Николай Громов](http://nicothin.github.io/idiomatic-pre-CSS/)
+* [Организация кода для CSS препроцессоров. Brian Rinaldi. Перевод Руслан Каймаков](http://frontender.info/organizing-your-css-code-for-preprocessors/)
+* [Битва архитектур. Mariano Miguel. Перевод css-live.ru](http://css-live.ru/articles/bitva-arxitektur.html)
 * [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
 * [«Пишем БЭМ правильно». Игорь Зенич](https://www.youtube.com/watch?v=hTmxbJF2Tts)
 * [А вы верите в систематизацию, или методологии верстки? Елизавета Селиванова и Ирина Левина](https://www.youtube.com/watch?v=P4ag4JSNWTM)
