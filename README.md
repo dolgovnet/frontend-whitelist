@@ -24,7 +24,7 @@ Frontend WhiteList — это список полезных ресурсов д�
 * [Основные правила и принципы написания CSS. Гарри Робертс. Перевод Владимир Старков](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
 
 ###Визуализация
-* [Свойства вызывающие перерисовку](http://csstriggers.com/)
+* [CSS Triggers. Таблица со свойствами и процессами, происходящими при изменении свойств](http://csstriggers.com/)
 * [Руководство по CSS Animation. Юля Бухвалова](http://css.yoksel.ru/css-animation/)
 * [Всё, что вам нужно знать о CSS-свойстве will-change. Sara Soueidan. Перевод Opera Software](https://dev.opera.com/articles/ru/css-will-change-property/)
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
