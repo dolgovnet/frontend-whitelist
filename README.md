@@ -39,6 +39,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Типографика восток. Роман Прудников](https://www.youtube.com/watch?v=9YQzHmIVYag)
 * [input. Артём Кувалдин](https://www.youtube.com/watch?time_continue=20&v=2uo74fpwCN4)
 * [FrontendLab: Признаки хорошей верстки. Роман Братченко](https://www.youtube.com/watch?v=lXgoTAhuEfo)
+* [Слова, часто используемые в CSS-классах. Юля Бухвалова](https://github.com/yoksel/common-words)
 
 ####О позиционировании
 * [Центрирование в CSS: полное руководство. Chris Coyier. Перевод Наталья Фадеева](http://frontender.info/centering-css-complete-guide/)
