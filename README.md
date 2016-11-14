@@ -131,6 +131,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Браузеры наши меньшие, или Нам нужно серьёзно поговорить. Вадим Макеев](https://habrahabr.ru/company/oleg-bunin/blog/310210/)
 * [Альтернативный текст для изображений. Ire Aderinokun. Перевод prgssr.ru](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
 * [Дизайн государственных систем](http://gov.design/blog/2016/11/08/accessibility.html)
+* [UX-мифы](http://ru.uxmyths.com/)
 
 ##Браузеры
 * [Модель отображения. Основы. Олег Мохов](https://www.youtube.com/watch?v=LVqg3N7QYVU)
