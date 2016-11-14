@@ -194,4 +194,4 @@ Frontend WhiteList — это список полезных и интересн�
 
 ---
 
-Основные редакторы [Стас Мельников](https://stas-melnikov.ru) и [Артем Андреев](https://github.com/grachpower). [Все редакторы](https://github.com/melnik909/frontend-whitelist/graphs/contributors). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+Главные редакторы: [Стас Мельников](https://stas-melnikov.ru) и [Артем Андреев](https://github.com/grachpower). [Все редакторы](https://github.com/melnik909/frontend-whitelist/graphs/contributors). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
