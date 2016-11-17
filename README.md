@@ -76,6 +76,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [S.O.L.I.D-ый JavaScript. Алексей Охрименко (Видео)](https://www.youtube.com/watch?v=wi3wPzReKZQ)
 * [Классическое программирование для фронтендеров. Игорь Алексеенко (Видео)](https://www.youtube.com/watch?v=b2AhDtFfSSU)
 * [Функциональное программирование в браузере. Никита Прокопов](http://tonsky.me/talks/2015-codefest/)
+* [Делаем свой JavaScript чистым. Jack Franklin. Перевод prgssr.ru](http://prgssr.ru/development/delaem-svoj-javascript-chistym.html)
 
 ####Об основах
 * [Современный учебник JavaScript. Илья Кантор](https://learn.javascript.ru)
@@ -83,7 +84,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Область видимости в JavaScript и «поднятие» переменных и объявлений функций](https://habrahabr.ru/post/127482/)
 * [Как работают замыкания (под капотом) в JavaScript. Hexlet](http://habrahabr.ru/company/hexlet/blog/266443/)
 * [Асинхронность в JavaScript: Пособие для тех, кто хочет разобраться. Wrike](https://habrahabr.ru/company/wrike/blog/302896/)
-* [Делаем свой JavaScript чистым. Jack Franklin. Перевод prgssr.ru](http://prgssr.ru/development/delaem-svoj-javascript-chistym.html)
 * [Техники работы с DOM: родительские, дочерние и соседние элементы. Louis Lazaris. Перевод prgssr.ru](http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html)
 * [Фронтенд. DOM, Events. Артем Мезин (Видео)](https://www.youtube.com/watch?v=b9q2j0RyKPw)
 
