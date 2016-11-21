@@ -33,6 +33,7 @@ Frontend WhiteList — это список полезных и интересн�
   * [О коде](README.md#О коде)
   * [О готовых решениях](README.md#О-готовых-решениях)  
 * [User Experience](README.md#user-experience)
+* [Progressive Enhancement и Graceful degradation](README.md#progressive-enhancement-и-graceful-degradation)
 * [Книги](README.md#Книги)
 
 ##Верстка
