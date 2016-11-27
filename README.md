@@ -130,6 +130,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Автоматизация хранения графики. Тимофей Чаптыков (Видео :movie_camera:)](https://www.youtube.com/watch?v=tJmI8p6Ms_M)
 * [Cистемы сборки фронтенда. Gulp (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=5&v=MfnTJh-pQWM)
 * [Суперсилы Chrome Dev Tools. Роман Сальников (Видео :movie_camera:)](https://vimeo.com/107580454)
+* [Стек технологий JavaScript с нуля. Jonathan Verrecchia. Перевод от UsulPro](https://github.com/UsulPro/js-stack-from-scratch)
 
 ##Accessibility
 * [Недоступный веб: как мы развели такой бардак. Mischa Andrews. Перевод Алексей Уколов](https://habrahabr.ru/post/309076/)
