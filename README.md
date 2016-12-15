@@ -58,7 +58,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
 
 ##CSS
-*["Сколько весят селекторы?". Юлия Бухвалова](http://css.yoksel.ru/specifity/)
+* ["Сколько весят селекторы?". Юлия Бухвалова](http://css.yoksel.ru/specifity/)
 ####О свойствах
 * [Свойство background-clip и его применения. Ana Tudor. Перевод css-live.ru](http://css-live.ru/articles-css/background-clip-use-cases.html)
 * [Как я научился любить скучные мелочи CSS. Peter Gaston. Перевод Веб-стандарты](http://web-standards.ru/articles/boring-bits-of-css/)
