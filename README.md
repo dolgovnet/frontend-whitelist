@@ -40,7 +40,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Валидация форм на HTML и CSS. Chris Coyier. Перевод Алёны Батицкой](https://medium.com/russian/валидация-форм-на-html-и-css-c34c982d42a0#.885w45m0k)
 * [Типографика восток. Роман Прудников (Видео :movie_camera:)](https://www.youtube.com/watch?v=9YQzHmIVYag)
 * [input. Артём Кувалдин (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=20&v=2uo74fpwCN4)
-* [Слова, часто используемые в CSS-классах. Юля Бухвалова](https://github.com/yoksel/common-words)
+* [Слова, часто используемые в CSS-классах. Юлия Бухвалова](https://github.com/yoksel/common-words)
 * [Методическое пособие для начинающих. Стас Мельников](https://www.gitbook.com/book/melnik909/tutorial-for-beginner-front-end-developer/details)
 
 ####О мобильных устройствах
@@ -58,6 +58,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
 
 ##CSS
+*["Сколько весят селекторы?". Юлия Бухвалова](http://css.yoksel.ru/specifity/)
 ####О свойствах
 * [Свойство background-clip и его применения. Ana Tudor. Перевод css-live.ru](http://css-live.ru/articles-css/background-clip-use-cases.html)
 * [Как я научился любить скучные мелочи CSS. Peter Gaston. Перевод Веб-стандарты](http://web-standards.ru/articles/boring-bits-of-css/)
@@ -110,7 +111,7 @@ Frontend WhiteList — это список полезных и интересн�
 
 ####CSS-анимации
 * [CSS Triggers. Таблица со свойствами и процессами, происходящими при изменении свойств](http://csstriggers.com/)
-* [Руководство по CSS Animation. Юля Бухвалова](http://css.yoksel.ru/css-animation/)
+* [Руководство по CSS Animation. Юлия Бухвалова](http://css.yoksel.ru/css-animation/)
 * [Всё, что вам нужно знать о CSS-свойстве will-change. Sara Soueidan. Перевод Opera Software](https://dev.opera.com/articles/ru/css-will-change-property/)
 
 ####JavaScript-анимации
